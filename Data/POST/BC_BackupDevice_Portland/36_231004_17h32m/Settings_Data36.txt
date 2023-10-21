@@ -1,0 +1,5 @@
+36_231004_17h32m
+Instrument Settings: SN = 36, userID = 36, Version = 2.9, Hardware = 2.0, LEDboard = 2.8, Firmware = 1.20.2.r1, flowRate = 100, samplePeriod = 2, envComp = True, DLPFilter = 1, ledDispMode = BC, LEDra = 90, LEDmaxConc = 10, LEDtimeout = 20, maxATN = 80, timeZone = 1.0, GPS = 1, GPS_SamplePeriod = 2
+Factors: BC_mRef = -0.01095052, BC_bRef = 0.416847, BC_mSig = -0.0110378, BC_bSig = 0.420191, FRm = 113.379, FRb = -284.327, FRcal = 1, BC_MAC = 7.8, BC_FLcorrFactor = 0.65
+colNames: TS, BC_Iref, BC_Isig, BC_ATN, BC, RH, T, FR, Vbat, GPSlat, GPSlong
+
